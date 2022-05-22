@@ -1,0 +1,12 @@
+from colorama import init, AnsiToWin32
+from colorama import Fore, Back, Style
+from termcolor import colored
+import random
+import webbrowser
+from random import randint
+import sys
+import emoji
+import turtle
+from emoji import *
+import sys
+import re
